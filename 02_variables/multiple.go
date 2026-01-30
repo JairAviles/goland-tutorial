@@ -3,5 +3,10 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Multiple vars")
+	var coffeeName = "Mocha"
+	var size = "Medium"
+	var price = 3.75
+
+	fmt.Println("Medium Havana Cappuccino is $3.75")
+	fmt.Println(size, coffeeName, "is $", price)
 }
