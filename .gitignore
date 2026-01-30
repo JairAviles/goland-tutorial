@@ -1,0 +1,9 @@
+bin/
+vendor/
+.coverprofile
+tmp
+.idea/
+*.orig
+.vscode/
+.k2/gen/
+coverage.out
