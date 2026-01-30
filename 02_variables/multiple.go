@@ -9,4 +9,5 @@ func main() {
 
 	fmt.Println("Medium Havana Cappuccino is $3.75")
 	fmt.Println(size, coffeeName, "is $", price)
+	fmt.Printf("%s %s is $%.2f \n", size, coffeeName, price)
 }
