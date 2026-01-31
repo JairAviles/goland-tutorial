@@ -3,4 +3,5 @@ go 1.25.6
 use (
 	./01_hello_go
 	./02_variables
+	./03_constants
 )
