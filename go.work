@@ -4,4 +4,5 @@ use (
 	./01_hello_go
 	./02_variables
 	./03_constants
+	./04_functions
 )
