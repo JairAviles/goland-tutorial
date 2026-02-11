@@ -1,4 +1,4 @@
-go 1.25.6
+go 1.25.7
 
 use (
 	./01_hello_go
@@ -6,4 +6,5 @@ use (
 	./03_constants
 	./04_functions
 	./05_pointers
+	./06_arrays_slices
 )
